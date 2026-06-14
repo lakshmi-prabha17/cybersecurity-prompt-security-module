@@ -1,5 +1,7 @@
 # 🛡️ AI Prompt Security: Defending the Frontline
 
+▶️ **[Launch Interactive E-Learning Module (Live Sandbox Simulation)](https://app.cloud.scorm.com/sc/InvitationConfirmEmail?publicInvitationId=665fc349-d3aa-4671-95cf-4c16bc86c6a4)**
+
 ## 🎯 The Business Challenge
 As enterprise organizations rapidly integrate Generative AI tools into daily workflows, employees inadvertently expose sensitive corporate data, proprietary source code, and protected customer information through insecure prompting behaviors. This module serves a critical corporate compliance need: training workforce personnel to identify data privacy risks and safely navigate AI interactions without creating legal or security liabilities.
 
