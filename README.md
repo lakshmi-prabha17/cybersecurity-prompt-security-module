@@ -26,4 +26,3 @@ Below are the verified sandbox analytics captured via SCORM Cloud, confirming th
 
 ### 💻 Deep-Dive LMS Debug Log Communication
 ![SCORM Data Elements Log](scorm_debug_log.png)
-
