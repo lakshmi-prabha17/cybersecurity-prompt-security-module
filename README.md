@@ -22,7 +22,7 @@ Built deliberately from the ground up to ensure absolute provincial and global d
 Below are the verified sandbox analytics captured via SCORM Cloud, confirming that the module successfully communicates programmatic session-state variables, runtime metrics, and completion tracking directly to an LMS database:
 
 ### 📸 Core Registration Status Summary
-![SCORM Cloud Progress Tracking Analytics](image_1036fb.png)
+![SCORM Cloud Progress Tracking Analytics](scorm_completion_verification.png)
 
 ### 💻 Deep-Dive LMS Debug Log Communication
 ![SCORM Data Elements Log](scorm_debug_log.png)
