@@ -16,7 +16,7 @@ Built deliberately from the ground up to ensure absolute provincial and global d
 * **Understandable:** Completely responsive text scaling, descriptive alternative text (Alt-Text) on all custom graphic assets, and closed captioning.
 * **Compliance Standards:** Aligned with **WCAG 2.1 Level AA** and the **Accessibility for Ontarians with Disabilities Act (AODA)** legal frameworks.
 
-[![Watch the Project Introduction](https://img.shields.io/badge/▶_Play_Project_Introduction_Video-blue?style=for-the-badge&logo=airplay)](https://share.synthesia.io/377aed76-72a9-4add-49df-8119d83806c7)
+[![Watch the Project Introduction](https://img.shields.io/badge/▶_Play_Project_Introduction_Video-blue?style=for-the-badge&logo=airplay)](https://share.synthesia.io/377aed76-72a9-4dd4-94df-8119d38606c7)
 
 ## 📊 Technical LMS Integration & Data Tracking
 * **Deployment Standard:** SCORM 1.2 Package.
